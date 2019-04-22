@@ -4,6 +4,8 @@
 ## 安装
 
 ``` bash
+npm install -g hexo
+npm install
 
 npm install hexo-generator-sitemap --save
 npm install hexo-generator-baidu-sitemap --save
