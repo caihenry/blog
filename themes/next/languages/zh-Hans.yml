@@ -48,7 +48,7 @@ page:
 
 footer:
   powered: "由 %s 强力驱动"
-  theme: 主题
+  theme: 版本
 
 counter:
   tag_cloud:
