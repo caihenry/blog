@@ -33,7 +33,7 @@
 
 {% if theme.footer.theme.enable %}
   <div class="theme-info">{#
-  #}{{ __('footer.theme') }} &mdash; {#
+  #}{{ __('footer.theme') }}: {#
   #}v1.0</div>
 {% endif %}
 
