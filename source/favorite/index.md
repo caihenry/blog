@@ -224,6 +224,8 @@ date: 2019-04-22 23:38:33
 
 #### springcloud
 
+* [Awesome Spring Cloud](https://github.com/ityouknow/awesome-spring-cloud)
+
 * [zhp8341/SpringCloudDemo: SpringCloud相关demo实例](https://github.com/zhp8341/SpringCloudDem)
 
 * [Spring Cloud Gateway中的GatewayFilter和GlobalFilter - Spring Cloud中国社区](http://www.springcloud.cn/view/26)
@@ -319,6 +321,8 @@ date: 2019-04-22 23:38:33
 * [小昱个人网站](https://www.xiaoyulive.top/)
 
 ### job
+
+* [靠谱的互联网招聘网站有哪些？](https://www.zhihu.com/question/20220820)
 
 * [武汉创业公司](https://company.51job.com/wuhan/cn14)
 
