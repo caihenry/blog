@@ -28,6 +28,20 @@ date: 2019-04-22 23:38:33
 
 * [百度地图](https://map.baidu.com/)
 
+## live
+
+* [360直播网](http://www.360-bo.com/)
+
+* [直播吧](https://www.zhibo8.cc)
+
+* [PP视频](http://www.pptv.com)
+
+* [CCTV-5](http://tv.cctv.com/live/cctv5)
+
+## video
+
+* [爱奇艺](http://www.iqiyi.com)
+
 ## ebook
 
 * [分分钟教你制作kindle格式电子书](https://zhuanlan.zhihu.com/p/29967852)
@@ -48,21 +62,19 @@ date: 2019-04-22 23:38:33
 
 * [网易邮箱](http://mail.163.com)
 
-## live
+## design
 
-* [360直播网 - 足球直播|NBA直播|体育直播 - 最用心的足球直播NBA直播网](http://www.360zhibo.com)
+* [coggle](https://coggle.it)
 
-* [直播吧](https://www.zhibo8.cc)
+* [百度脑图](http://naotu.baidu.com/)
 
-* [PP视频_海量影视剧_高清体育直播_热门视频在线观看 - 原PPTV聚力视频](http://www.pptv.com)
+## image
 
-* [CCTV-5 体育频道高清直播](http://tv.cctv.com/live/cctv5)
+* [在线转换透明背景色工具-压缩图](https://www.yasuotu.com/buttonColor)
 
-## video
+## register
 
-* [视频分享](http://user02.debian/offline/video/share.htm)
-
-* [爱奇艺-在线视频网站-海量正版高清视频在线观看](http://www.iqiyi.com)
+* [IntelliJ IDEA 注册](http://idea.lanyus.com/)
 
 ## resource
 
@@ -93,10 +105,6 @@ date: 2019-04-22 23:38:33
 ## sync
 
 * [FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org)
-
-## image
-
-* [在线转换透明背景色工具-压缩图](https://www.yasuotu.com/buttonColor)
 
 # living
 
@@ -147,6 +155,56 @@ date: 2019-04-22 23:38:33
 * [哪些自媒体平台有收益？ - 简书](https://www.jianshu.com/p/897aefd8634)
 
 ## dev
+
+### tutorial
+
+#### C
+
+* [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
+
+#### C++
+
+* [C++ Tutorial](https://www.tutorialspoint.com/cplusplus/index.htm)
+
+#### JAVA
+
+* [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
+
+#### PYTHON
+
+* [Python - Tutorial](https://www.tutorialspoint.com/python/index.htm)
+
+#### GO
+
+* [Go Tutorial](https://www.tutorialspoint.com/go/index.htm)
+
+#### NodeJS
+
+* [Node.js Tutorial](https://www.tutorialspoint.com/nodejs/index.htm)
+
+#### HTML
+
+* [HTML Tutorial](https://www.tutorialspoint.com/html/index.htm)
+
+#### JAVASCRIPT
+
+* [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
+
+#### CSS
+
+* [CSS Tutorial](https://www.tutorialspoint.com/css/index.htm)
+
+#### Android
+
+* [Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+
+#### Data Structure And Algorithms
+
+* [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+
+#### Redis
+
+* [Redis Tutorial](https://www.tutorialspoint.com/redis/index.htm)
 
 ### doc
 
