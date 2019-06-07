@@ -378,6 +378,10 @@ date: 2019-04-22 23:38:33
 
 * [小昱个人网站](https://www.xiaoyulive.top/)
 
+## architecture
+
+* [架构师之路](https://www.w3cschool.cn/architectroad/?)
+
 ### job
 
 * [靠谱的互联网招聘网站有哪些？](https://www.zhihu.com/question/20220820)
